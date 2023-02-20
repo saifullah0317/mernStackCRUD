@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Introduction
+This is a simple CRUD (create, read, update and delete operations) application.
+ 
+## Technology stack
+MERN stack (Mongodb Express.js React.js and Node.js)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
